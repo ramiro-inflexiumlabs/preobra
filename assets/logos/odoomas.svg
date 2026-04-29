@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 80" role="img" aria-label="OdooMás">
+  <defs>
+    <linearGradient id="om-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"></stop>
+      <stop offset="100%" stop-color="#4C1D95"></stop>
+    </linearGradient>
+  </defs>
+  <g font-family="&#39;Plus Jakarta Sans&#39;, system-ui, sans-serif" font-weight="800" font-size="56" letter-spacing="-2">
+    <text x="0" y="58" fill="url(#om-grad)">O</text>
+    <text x="42" y="58" fill="#1E1B4B">dooMás</text>
+  </g>
+</svg>
